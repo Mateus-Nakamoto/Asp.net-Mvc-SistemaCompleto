@@ -1,4 +1,4 @@
-Developed by Mateus Nakamoto
+Sistema em Asp.Net com Mvc utilizando Sql Server com página para Cadastrar, Editar e Apagar Contatos.
 
 1. Need install the packages: "Microsoft.EntityFrameworkCore", "Microsoft.EntityFrameworkCore.Design" and "Microsoft.EntityFrameworkCore.Tools".
 2. To update Framework version 5.0- to 6.0+, we do not use anymore the class "Startup.cs", the changes now are made in the "Program.cs".
