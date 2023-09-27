@@ -1,4 +1,4 @@
-Sistema em Asp.Net com Mvc utilizando Entity Framework 6.0 Sql Server com página para Cadastrar, Editar e Apagar Contatos.
+System in Asp.Net Mvc using Entity Framework Core 6.0 and Sql Server with Add, Edit and Delete users functions.
 
 1. Need install the packages: "Microsoft.EntityFrameworkCore", "Microsoft.EntityFrameworkCore.Design" and "Microsoft.EntityFrameworkCore.Tools".
 2. To update settings from Entity Core Framework version 5.0- to 6.0+, we do not use anymore the class "Startup.cs", the changes now are made in the "Program.cs".
